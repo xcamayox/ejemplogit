@@ -21,5 +21,6 @@ C:\ProgramData ----para borrar archivos
 ******************************************
 librerias
 javascript
-
+*jquery
+*knockout js
 
